@@ -1,2 +1,2 @@
-# gb-career-website
-A career website for Grad Bunker Learning Hub
+# jovian-careers-website
+A careers website for Jovian
